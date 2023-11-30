@@ -1,0 +1,5 @@
+/target
+/.direnv
+/.idea
+/.pre-commit-config.yaml
+result
